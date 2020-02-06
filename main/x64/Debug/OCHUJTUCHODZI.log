@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Board.cpp
+c:\users\daorin\source\repos\ochujtuchodzi\ochujtuchodzi\board.h(2): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Checker.cpp
+c:\users\daorin\source\repos\ochujtuchodzi\ochujtuchodzi\checker.h(2): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  OCHUJTUCHODZI.cpp
+c:\users\daorin\source\repos\ochujtuchodzi\ochujtuchodzi\ochujtuchodzi.cpp(2): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Generowanie kodu...
